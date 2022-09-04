@@ -1,0 +1,50 @@
+commit 1ee412b249d60336e5b5de51b756ad51e5051c13
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 15:03:26 2022 +0500
+
+    Добавлен prerelease.txt
+
+commit 6b392edc91fa168cb5536d2cb8204653d912ebf3
+Merge: adc7399 4248e1e
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 15:06:01 2022 +0500
+
+    Merge branch 'TEST'
+
+commit 4248e1e0a15809ee9c17c355873ec18b3b8f04ed
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 15:03:01 2022 +0500
+
+    Добавлен test.txt
+
+commit adc7399285807d9bd0064b9ba666bbf599b278e3
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 15:02:11 2022 +0500
+
+    Добавлен .gitignore
+
+commit 60b3885300446a0db3528eeea71028a35a623f2c
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 14:59:46 2022 +0500
+
+    Revert "Второй коммит amend"
+    
+    This reverts commit e34362f285265a06fce79bbe4e009103ba647c74.
+
+commit f5d443573b1f66d3d4b454b8b38aa44f46b2a4ee
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 14:54:50 2022 +0500
+
+    Добавлена аудитория в readme.txt
+
+commit e34362f285265a06fce79bbe4e009103ba647c74
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 14:52:46 2022 +0500
+
+    Второй коммит amend
+
+commit 498a81fc44c7cd2291294e5140daf72cbae5c8ca
+Author: VladSavitskiy <cyberl1fe@yandex.ru>
+Date:   Sun Sep 4 14:51:20 2022 +0500
+
+    Первый коммит readme.txt
