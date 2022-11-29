@@ -1,0 +1,43 @@
+commit 095c1cfd2d14b306a80ca42922b96bd115ac6b3b
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:33:44 2022 +0600
+
+    Добавил файл prerelease.txt
+
+commit fd3c3edb75067064c09db523fbaec6d3ef7fae8c
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:31:14 2022 +0600
+
+    test.txt
+
+commit bfa052421bf7a2bedf69ac2f730a8098374a3b5a
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:25:14 2022 +0600
+
+    .gitignore
+
+commit 8a043eeffe2b520abd4b50d2487d7faa06e0d50c
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:20:03 2022 +0600
+
+    Revert "Коммит с оценкой и предметом"
+    
+    This reverts commit 0bb8a2b8c6fba664686e87f908e36faf6db68a35.
+
+commit c523b81e68a25e08137618852a12f84e16c02452
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:15:30 2022 +0600
+
+    Коммит с аудиторией
+
+commit 0bb8a2b8c6fba664686e87f908e36faf6db68a35
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:05:45 2022 +0600
+
+    Коммит с оценкой и предметом
+
+commit 773312743ac84f73ae8e79585e04bec845dd5a75
+Author: Filipp Maksimov <filipp.maksimov@mail.ru>
+Date:   Fri Nov 25 22:03:10 2022 +0600
+
+    Мой первый коммит
