@@ -1,0 +1,37 @@
+commit c53ce35f86e6eec8083205f9c1d5643fe19c2b23
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:48:12 2022 +0600
+
+    Добавлен test.txt
+
+commit 11b0cfebb46459f95ad8090c1fad8f7f73673f0c
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:45:41 2022 +0600
+
+    Добавлен .gitignore
+
+commit 011499ce7c281c3133a95963977304772893a249
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:43:33 2022 +0600
+
+    Revert "Добавлена оценка статуса (изменен)"
+    
+    This reverts commit 31350bc838097079060f3540bbb68ffd27983068.
+
+commit df14c9e2bcd604ab4d5840a51233d8c7ecb594e5
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:36:17 2022 +0600
+
+    Добавлена аудитория
+
+commit 31350bc838097079060f3540bbb68ffd27983068
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:20:23 2022 +0600
+
+    Добавлена оценка статуса (изменен)
+
+commit fd31f029967f29ce4369db3162ab119e63bb29e9
+Author: Denis Kovalev <den.kovalev999@gmail.com>
+Date:   Fri Dec 23 18:11:50 2022 +0600
+
+    Мой первый коммит
