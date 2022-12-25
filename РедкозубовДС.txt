@@ -1,0 +1,43 @@
+commit 1b9c0581d63ac622b36c4d54706fc64aaf6ebf3a
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:55:56 2022 +0500
+
+    prerelease.txt
+
+commit 0253b2b90ee54a6ca2d2a463df82c3a6d83d7d98
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:57:12 2022 +0500
+
+    test.txt
+
+commit 5d69e23ee1a20c86defed5916ce141a7d07774e0
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:51:33 2022 +0500
+
+    Revert "Название предмета"
+    
+    This reverts commit 622f0f8497c10f0bae0d0ef24e0f0695a5b962b4.
+
+commit 3eb597025c1494ee3c5bf32e406333d90a2b98ad
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:46:17 2022 +0500
+
+    Название аудитории
+
+commit 622f0f8497c10f0bae0d0ef24e0f0695a5b962b4
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:41:15 2022 +0500
+
+    Название предмета
+
+commit 935a28f2263686392b64aea65ca8e10946a8980c
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:40:44 2022 +0500
+
+    Оценка текущего статуса
+
+commit 4f0994f9d039896aea4d5fb3ff1ef5fe405901e0
+Author: RedkozubovDS <redkozubovds@mail.skblab.ru>
+Date:   Sun Dec 25 12:40:07 2022 +0500
+
+    Мой первый коммит
