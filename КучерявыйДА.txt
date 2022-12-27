@@ -1,0 +1,49 @@
+commit 1e34ddf762159e663cedc9aabd8da764a50c8ccc
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 01:12:03 2022 +0500
+
+    Мой 7 коммит
+
+commit e33e31f3b8b42de872753ee8643d147297363ec2
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 01:08:00 2022 +0500
+
+    Мой 6 коммит
+
+commit 79e1745ecc97324c24c2e26d812a5f1faba74e65
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 01:06:52 2022 +0500
+
+    Мой 5  коммит
+
+commit 82b67325f876c7746d7325d0dd6e6fd9ded951bf
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 01:01:59 2022 +0500
+
+    Мой 4  коммит
+
+commit e49527f958c2c8e63fb73889205448ed30341769
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 00:37:00 2022 +0500
+
+    Revert "Мой второй коммит, отредактированный"
+    
+    This reverts commit 410ad1904cea5b8ffbd9c5dc030871a5812b7ff9.
+
+commit 62cf3a06e789f07c9020d13fceb58fd44fd65c3f
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 00:32:07 2022 +0500
+
+    Мой третий коммит
+
+commit 410ad1904cea5b8ffbd9c5dc030871a5812b7ff9
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 00:19:16 2022 +0500
+
+    Мой второй коммит, отредактированный
+
+commit 7ec1ecf64210e8e1a89a060592e815c3542c3f9d
+Author: wwenderr <48518642+wwenderr@users.noreply.github.com>
+Date:   Wed Dec 28 00:15:56 2022 +0500
+
+    Мой первый коммит
